@@ -61,11 +61,14 @@ A simulated coffee distributor wants a quick and visual way to:
 ### 🖼️ Full Dashboard View
 ![Dashboard 1](Dashboard%20Coffe%201.png)
 
-### 🖼️ Full Dashboard View
-![Dashboard 1](Dashboard%20Coffe%202.png)
 
 ### 🖼️ Full Dashboard View
-![Dashboard 1](Dashboard%20Coffe%203.png)
+![Dashboard 2](Dashboard%20Coffe%202.png)
+
+
+### 🖼️ Full Dashboard View
+![Dashboard 3](Dashboard%20Coffe%203.png)
+
 
 ---
 
@@ -90,7 +93,5 @@ A simulated coffee distributor wants a quick and visual way to:
 ## 👤 Author
 
 **Taoufik Oulahcen**  
-🎓 Master’s in Marketing & Communication  
-📊 Data Analyst in training | Excel | Power BI | SQL  
-🌍 Morocco  
-🔗 [LinkedIn Profile](https://www.linkedin.com/) *(Add your real link here)*  
+📊 Data Analyst | Excel | Power BI | SQL  
+🌍 Morocco   
