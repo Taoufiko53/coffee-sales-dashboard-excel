@@ -1,17 +1,17 @@
-# ☕ Coffee Sales Dashboard - Excel Project
+#  Coffee Sales Dashboard - Excel Project
 
-## 📌 Project Overview
+##  Project Overview
 
 This is my first Data Analytics project using **Microsoft Excel**. The purpose is to demonstrate my ability to:
 - Clean raw sales data
 - Organize and enrich the dataset
 - Build a dynamic and interactive dashboard
 
-🟨 This project is **not focused on analysis**, but rather on showcasing Excel skills for data preparation and dashboard design.
+ This project is **not focused on analysis**, but rather on showcasing Excel skills for data preparation and dashboard design.
 
 ---
 
-## 📁 About the Data
+##  About the Data
 
 The dataset simulates coffee sales over time and includes:
 - Order date and product ID
@@ -32,7 +32,7 @@ The dataset simulates coffee sales over time and includes:
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 - **Slicers** for filtering:
   - Roast Type
@@ -46,7 +46,7 @@ The dataset simulates coffee sales over time and includes:
 
 ---
 
-## 🧩 Use Case
+##  Use Case
 
 A simulated coffee distributor wants a quick and visual way to:
 - Track monthly sales
@@ -56,23 +56,23 @@ A simulated coffee distributor wants a quick and visual way to:
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
-### 🖼️ Full Dashboard View
+###  Full Dashboard View
 ![Dashboard 1](Dashboard%20Coffe%201.png)
 
 
-### 🖼️ Full Dashboard View
+###  Full Dashboard View
 ![Dashboard 2](Dashboard%20Coffe%202.png)
 
 
-### 🖼️ Full Dashboard View
+###  Full Dashboard View
 ![Dashboard 3](Dashboard%20Coffe%203.png)
 
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Microsoft Excel (Pivot Tables, Pivot Charts)
 - Excel formulas: `IF`, `LOOKUP`, `TEXT`, `DATE`
@@ -81,17 +81,9 @@ A simulated coffee distributor wants a quick and visual way to:
 
 ---
 
-## 📂 Files in this Repository
 
-- `/Data/raw_coffee_data.xlsx` → original dataset (before cleaning)
-- `/Data/cleaned_coffee_data.xlsx` → final version with dashboard
-- `/Images/dashboard_preview.png` → screenshot of the dashboard
-- `README.md` → this file
-
----
-
-## 👤 Author
+##  Author
 
 **Taoufik Oulahcen**  
-📊 Data Analyst | Excel | Power BI | SQL  
-🌍 Morocco   
+Data Analyst | Excel | Power BI | SQL  
+From Morocco   
